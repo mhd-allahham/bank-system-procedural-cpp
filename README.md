@@ -1,33 +1,24 @@
 Bank System (Procedural C++)
-
 Description
-
-Dieses Projekt ist ein konsolenbasiertes Banksystem, das in C++ mit prozeduraler Programmierung entwickelt wurde (ohne OOP).
-
-Das System ermöglicht die Verwaltung von Kunden und Benutzern sowie die Durchführung von Transaktionen und die Kontrolle von Zugriffsrechten.
-
+Dies ist ein konsolenbasiertes Banksystem, das in C++ mit einem prozeduralen Ansatz entwickelt wurde (ohne OOP).
+Das System ermöglicht die Verwaltung von Clients und Benutzern mit voller Funktionalität, einschließlich Transaktionen und Berechtigungen.
 Features
-Kunden hinzufügen / bearbeiten / löschen
-Kunden suchen
-Geld einzahlen und abheben
+Clients hinzufügen / aktualisieren / löschen
+Nach Clients suchen
+Geld einzahlen & abheben
 Gesamtsaldo anzeigen
-Benutzerverwaltung
+Benutzerverwaltungssystem
 Login-System mit Berechtigungen
 Permissions System
-
-Jeder Benutzer hat bestimmte Zugriffsrechte:
-
+Jeder Benutzer hat spezifische Berechtigungen:
 Vollzugriff
-Eingeschränkter Zugriff je nach Rolle
+Eingeschränkter Zugriff basierend auf Rollen
 Data Storage
-Kundendaten werden in: Clients.txt gespeichert
-Benutzerdaten werden in: Users.txt gespeichert
-
+Clients gespeichert in: Clients.txt
+Benutzer gespeichert in: Users.txt
 Technologies
 C++
-Datei-Verarbeitung
+File Handling
 Prozedurale Programmierung
-
 Example
-
-Konsolenbasierte Anwendung mit Menüführung für einfache Bedienung.
+Konsolenbasierte Interaktion mit Menüs für einfache Navigation.
