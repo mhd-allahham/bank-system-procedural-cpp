@@ -1,8 +1,0 @@
-﻿  Bank  system Extension 2 FP.cpp
-G:\C++\Bank  system Extension 2 FP\Bank  system Extension 2 FP.cpp(68,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-G:\C++\Bank  system Extension 2 FP\Bank  system Extension 2 FP.cpp(916,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
-G:\C++\Bank  system Extension 2 FP\Bank  system Extension 2 FP.cpp(874,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
-G:\C++\Bank  system Extension 2 FP\Bank  system Extension 2 FP.cpp(956,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
-G:\C++\Bank  system Extension 2 FP\Bank  system Extension 2 FP.cpp(1023,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
-G:\C++\Bank  system Extension 2 FP\Bank  system Extension 2 FP.cpp(996,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
-  Bank  system Extension 2 FP.vcxproj -> G:\C++\Bank  system Extension 2 FP\x64\Debug\Bank  system Extension 2 FP.exe
